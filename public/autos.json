@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "marca": "Ford",
+        "modelo": "Fiesta",
+        "imagenUrl": "/img/auto1.jpeg"
+
+    },
+
+    {
+        "id": 2,
+        "marca": "Ford",
+        "modelo": "Fiesta",
+        "imagenUrl": "/img/auto2.jpeg"
+
+    },
+    {
+        "id": 3,
+        "marca": "Ford",
+        "modelo": "Fiesta",
+        "imagenUrl": "./img/auto3.jpeg"
+
+    },
+    {
+        "id": 4,
+        "marca": "Ford",
+        "modelo": "Fiesta",
+        "imagenUrl": "./img/auto4.jpeg"
+
+    }
+]
